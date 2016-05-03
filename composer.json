@@ -1,5 +1,5 @@
 {
-    "name": "johanospina/s2-member",
+    "name": "johanospina/s2member",
     "type": "wordpress-plugin",
 	"require": {"composer/installers":"v1.0.25"}
   
