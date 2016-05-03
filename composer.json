@@ -1,0 +1,6 @@
+{
+    "name": "johanospina/s2-member",
+    "type": "wordpress-plugin",
+	"require": {"composer/installs":"v1.0.25"}
+  
+}
